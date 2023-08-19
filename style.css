@@ -68,7 +68,7 @@ ul{
     width: 80%;
     margin-bottom: 10px;
     font-size: 18px;
-    color: #494949;
+    color: #626567;
 }
 
 .boton-cont-1{
@@ -161,6 +161,10 @@ ul{
     padding-left: 30px;
     padding-right: 30px;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-top: 30px;
 }
 
 .logo-js{
@@ -250,6 +254,10 @@ ul{
     padding-left: 30px;
     padding-right: 30px;
     font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
 }
 
 .logo-php{
@@ -290,4 +298,12 @@ ul{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+footer{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding-right: 8%;
+    font-size: 15px;
 }
