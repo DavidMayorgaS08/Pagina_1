@@ -307,3 +307,19 @@ footer{
     padding-right: 8%;
     font-size: 15px;
 }
+
+.js:hover{
+    background-color: #ffface;
+}
+
+.html:hover{
+    background-color: #ffdddd;
+}
+
+.css:hover{
+    background-color: #deeeff;
+}
+
+.php:hover{
+    background-color: #f7e4ff;
+}
