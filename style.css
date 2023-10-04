@@ -362,7 +362,7 @@ footer{
     background-color: #f7e4ff;
 }
 
-@media (max-width: 1633px){
+@media (max-width: 1300px){
     header{
         padding: 0 4%;
     }
